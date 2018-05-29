@@ -1,0 +1,29 @@
+{
+  "name": "intro-2",
+  "version": "1.0.0",
+  "description": "Mean stack app",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitIT56/mean-intro-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Gustavo Monardez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitIT56/mean-intro-app/issues"
+  },
+  "homepage": "https://github.com/gitIT56/mean-intro-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
